@@ -9,8 +9,15 @@ AI Focused Development ( Community base effort ) For The Kadena Chainweb blockch
 
 ## Current Repositorys Of Interest Include
 
+source_of_truth
 
+kadena-bundle
 
+sot-signer
+
+PACT5-AI
+
+AI-CLI-Sessions-History-db
 
 
 ### Direct Download
