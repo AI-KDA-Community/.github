@@ -16,7 +16,7 @@ Sneak preview — what we're working on next:
 
 - `session-db`
 - `pact5-ai`
-- `sot-signer`
+- `sexy signer for sexy people !!`
 
 ## Download Builds
 
