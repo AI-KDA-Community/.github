@@ -14,8 +14,8 @@ AI-focused development (community-based effort) for the Kadena Chainweb blockcha
 
 Sneak preview — what we're working on next:
 
-- `save you sessions in a db !!`
-- `sexy signer xxx`
+- `AI-CLI-Sessions-History-db` — session !1
+- `sot-signer` — its a signer!1
 
 ## Download Builds
 
