@@ -14,9 +14,8 @@ AI-focused development (community-based effort) for the Kadena Chainweb blockcha
 
 Sneak preview — what we're working on next:
 
-- `session-db`
-- `pact5-ai`
-- `sexy signer for sexy people !!`
+- `save you sessions in a db !!`
+- `sexy signer xxx`
 
 ## Download Builds
 
