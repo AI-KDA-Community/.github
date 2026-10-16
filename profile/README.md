@@ -10,6 +10,14 @@ AI-focused development (community-based effort) for the Kadena Chainweb blockcha
 
 - [`kadena-bundle`](https://github.com/AI-KDA-Community/kadena-bundle) — @kadena bundle: disambiguation, secrets helper, sot reference
 
+## In Development
+
+Sneak preview — what we're working on next:
+
+- `session-db`
+- `pact5-ai`
+- `sot-signer`
+
 ## Download Builds
 
 Binaries for all projects: **https://github.com/AI-KDA-Community/releases**
