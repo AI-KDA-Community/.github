@@ -4,41 +4,32 @@ Kadena AI ecosystem tools and releases.
 
 ## What We Build
 
-AI Focused Development ( Community base effort ) For The Kadena Chainweb blockchain.
+AI-focused development (community-based effort) for the Kadena Chainweb blockchain.
 
+## Repositories of Interest
 
-## Current Repositorys Of Interest Include
+- [`kadena-bundle`](https://github.com/AI-KDA-Community/kadena-bundle) — @kadena bundle: disambiguation, secrets helper, sot reference
 
-source_of_truth
+## In Development
 
-kadena-bundle
+Private repos currently in development — names only for now:
 
-sot-signer
+- `sot-signer`
+- `pact5-ai`
+- `session-db`
 
-PACT5-AI
+## Download Builds
 
-AI-CLI-Sessions-History-db
+Binaries for all projects: **https://github.com/AI-KDA-Community/releases**
 
+### Homebrew
 
-### Direct Download
-
-Binaries: https://github.com/AI-KDA-Community/releases
+```bash
+brew trust ai-kda-community/tap
+brew tap ai-kda-community/tap
+brew install <formula>
+```
 
 ## Getting Help
 
 Open an issue in the relevant repository.
-
-## For Developers: Bootstrap Your Own Org
-
-Running your own org and want the same structure? The tool we use to set this up is public:
-
-**[homebrew-tap-app](https://github.com/AI-KDA-Community/homebrew-tap-app)** — a single script that scaffolds:
-
-- **`.github`** — org profile README + shared community health files
-- **`releases`** — central hub where every tagged build lands
-- **`homebrew-tap`** — package manager formulae, auto-bumped by CI
-- **Source repos** — one per project, with branch layout for project work
-- **Release workflow** — GoReleaser config + GitHub Actions, tag → build → publish → formula bump, fully automated
-- **Release schedule** — driven by tags, so `git tag vX.Y.Z && git push --tags` is the whole workflow
-
-Clone it, point it at your org, run `./run.sh`. Safe to re-run.
